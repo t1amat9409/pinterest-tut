@@ -1,0 +1,1258 @@
+@import '~@nativescript/theme/css/core.css';
+@import '~@nativescript/theme/css/default.css';
+
+.FontAwesome{
+    font-family: FontAwesome, FontAwesome
+}
+
+.AntDesign{
+    font-family: AntDesign, anticon
+}
+
+.Zocial{
+    font-family: Zocial, zocial
+}
+
+.Foundation{
+    font-family: Foundation, fontcustom
+}
+
+.MaterialCommunityIcons{
+    font-family: MaterialCommunityIcons, Material Design Icons
+}
+
+.Feather{
+    font-family: Feather, Feather
+}
+
+.FontAwesome5Free{
+    font-family: FontAwesome5Free
+}
+
+.SimpleLineIcons{
+    font-family: SimpleLineIcons, simple-line-icons
+}
+
+.Entypo{
+    font-family: Entypo, Entypo
+}
+
+.MaterialIcons{
+    font-family: MaterialIcons, Material Icons
+}
+
+.Octicons{
+    font-family: Octicons, Octicons
+}
+
+.EvilIcons{
+    font-family: EvilIcons, EvilIcons
+}
+
+.Fontisto{
+    font-family: Fontisto, fontisto
+}
+
+.FontAwesome5Pro{
+    font-family: FontAwesome5Pro
+}
+
+.Ionicons{
+    font-family: Ionicons,Ionicons
+}
+
+.size150{
+    font-size: 150
+  }
+
+  .size149_5{
+    font-size: 149.5
+  }
+
+  .size149{
+    font-size: 149
+  }
+
+  .size148_5{
+    font-size: 148.5
+  }
+
+  .size148{
+    font-size: 148
+  }
+
+  .size147_5{
+    font-size: 147.5
+  }
+
+  .size147{
+    font-size: 147
+  }
+
+  .size146_5{
+    font-size: 146.5
+  }
+
+  .size146{
+    font-size: 146
+  }
+
+  .size145_5{
+    font-size: 145.5
+  }
+
+  .size145{
+    font-size: 145
+  }
+
+  .size144_5{
+    font-size: 144.5
+  }
+
+  .size144{
+    font-size: 144
+  }
+
+  .size143_5{
+    font-size: 143.5
+  }
+
+  .size143{
+    font-size: 143
+  }
+
+  .size142_5{
+    font-size: 142.5
+  }
+
+  .size142{
+    font-size: 142
+  }
+
+  .size141_5{
+    font-size: 141.5
+  }
+
+  .size141{
+    font-size: 141
+  }
+
+  .size140_5{
+    font-size: 140.5
+  }
+
+  .size140{
+    font-size: 140
+  }
+
+  .size139_5{
+    font-size: 139.5
+  }
+
+  .size139{
+    font-size: 139
+  }
+
+  .size138_5{
+    font-size: 138.5
+  }
+
+  .size138{
+    font-size: 138
+  }
+
+  .size137_5{
+    font-size: 137.5
+  }
+
+  .size137{
+    font-size: 137
+  }
+
+  .size136_5{
+    font-size: 136.5
+  }
+
+  .size136{
+    font-size: 136
+  }
+
+  .size135_5{
+    font-size: 135.5
+  }
+
+  .size135{
+    font-size: 135
+  }
+
+  .size134_5{
+    font-size: 134.5
+  }
+
+  .size134{
+    font-size: 134
+  }
+
+  .size133_5{
+    font-size: 133.5
+  }
+
+  .size133{
+    font-size: 133
+  }
+
+  .size132_5{
+    font-size: 132.5
+  }
+
+  .size132{
+    font-size: 132
+  }
+
+  .size131_5{
+    font-size: 131.5
+  }
+
+  .size131{
+    font-size: 131
+  }
+
+  .size130_5{
+    font-size: 130.5
+  }
+
+  .size130{
+    font-size: 130
+  }
+
+  .size129_5{
+    font-size: 129.5
+  }
+
+  .size129{
+    font-size: 129
+  }
+
+  .size128_5{
+    font-size: 128.5
+  }
+
+  .size128{
+    font-size: 128
+  }
+
+  .size127_5{
+    font-size: 127.5
+  }
+
+  .size127{
+    font-size: 127
+  }
+
+  .size126_5{
+    font-size: 126.5
+  }
+
+  .size126{
+    font-size: 126
+  }
+
+  .size125_5{
+    font-size: 125.5
+  }
+
+  .size125{
+    font-size: 125
+  }
+
+  .size124_5{
+    font-size: 124.5
+  }
+
+  .size124{
+    font-size: 124
+  }
+
+  .size123_5{
+    font-size: 123.5
+  }
+
+  .size123{
+    font-size: 123
+  }
+
+  .size122_5{
+    font-size: 122.5
+  }
+
+  .size122{
+    font-size: 122
+  }
+
+  .size121_5{
+    font-size: 121.5
+  }
+
+  .size121{
+    font-size: 121
+  }
+
+  .size120_5{
+    font-size: 120.5
+  }
+
+  .size120{
+    font-size: 120
+  }
+
+  .size119_5{
+    font-size: 119.5
+  }
+
+  .size119{
+    font-size: 119
+  }
+
+  .size118_5{
+    font-size: 118.5
+  }
+
+  .size118{
+    font-size: 118
+  }
+
+  .size117_5{
+    font-size: 117.5
+  }
+
+  .size117{
+    font-size: 117
+  }
+
+  .size116_5{
+    font-size: 116.5
+  }
+
+  .size116{
+    font-size: 116
+  }
+
+  .size115_5{
+    font-size: 115.5
+  }
+
+  .size115{
+    font-size: 115
+  }
+
+  .size114_5{
+    font-size: 114.5
+  }
+
+  .size114{
+    font-size: 114
+  }
+
+  .size113_5{
+    font-size: 113.5
+  }
+
+  .size113{
+    font-size: 113
+  }
+
+  .size112_5{
+    font-size: 112.5
+  }
+
+  .size112{
+    font-size: 112
+  }
+
+  .size111_5{
+    font-size: 111.5
+  }
+
+  .size111{
+    font-size: 111
+  }
+
+  .size110_5{
+    font-size: 110.5
+  }
+
+  .size110{
+    font-size: 110
+  }
+
+  .size109_5{
+    font-size: 109.5
+  }
+
+  .size109{
+    font-size: 109
+  }
+
+  .size108_5{
+    font-size: 108.5
+  }
+
+  .size108{
+    font-size: 108
+  }
+
+  .size107_5{
+    font-size: 107.5
+  }
+
+  .size107{
+    font-size: 107
+  }
+
+  .size106_5{
+    font-size: 106.5
+  }
+
+  .size106{
+    font-size: 106
+  }
+
+  .size105_5{
+    font-size: 105.5
+  }
+
+  .size105{
+    font-size: 105
+  }
+
+  .size104_5{
+    font-size: 104.5
+  }
+
+  .size104{
+    font-size: 104
+  }
+
+  .size103_5{
+    font-size: 103.5
+  }
+
+  .size103{
+    font-size: 103
+  }
+
+  .size102_5{
+    font-size: 102.5
+  }
+
+  .size102{
+    font-size: 102
+  }
+
+  .size101_5{
+    font-size: 101.5
+  }
+
+  .size101{
+    font-size: 101
+  }
+
+  .size100_5{
+    font-size: 100.5
+  }
+
+  .size100{
+    font-size: 100
+  }
+
+  .size99_5{
+    font-size: 99.5
+  }
+
+  .size99{
+    font-size: 99
+  }
+
+  .size98_5{
+    font-size: 98.5
+  }
+
+  .size98{
+    font-size: 98
+  }
+
+  .size97_5{
+    font-size: 97.5
+  }
+
+  .size97{
+    font-size: 97
+  }
+
+  .size96_5{
+    font-size: 96.5
+  }
+
+  .size96{
+    font-size: 96
+  }
+
+  .size95_5{
+    font-size: 95.5
+  }
+
+  .size95{
+    font-size: 95
+  }
+
+  .size94_5{
+    font-size: 94.5
+  }
+
+  .size94{
+    font-size: 94
+  }
+
+  .size93_5{
+    font-size: 93.5
+  }
+
+  .size93{
+    font-size: 93
+  }
+
+  .size92_5{
+    font-size: 92.5
+  }
+
+  .size92{
+    font-size: 92
+  }
+
+  .size91_5{
+    font-size: 91.5
+  }
+
+  .size91{
+    font-size: 91
+  }
+
+  .size90_5{
+    font-size: 90.5
+  }
+
+  .size90{
+    font-size: 90
+  }
+
+  .size89_5{
+    font-size: 89.5
+  }
+
+  .size89{
+    font-size: 89
+  }
+
+  .size88_5{
+    font-size: 88.5
+  }
+
+  .size88{
+    font-size: 88
+  }
+
+  .size87_5{
+    font-size: 87.5
+  }
+
+  .size87{
+    font-size: 87
+  }
+
+  .size86_5{
+    font-size: 86.5
+  }
+
+  .size86{
+    font-size: 86
+  }
+
+  .size85_5{
+    font-size: 85.5
+  }
+
+  .size85{
+    font-size: 85
+  }
+
+  .size84_5{
+    font-size: 84.5
+  }
+
+  .size84{
+    font-size: 84
+  }
+
+  .size83_5{
+    font-size: 83.5
+  }
+
+  .size83{
+    font-size: 83
+  }
+
+  .size82_5{
+    font-size: 82.5
+  }
+
+  .size82{
+    font-size: 82
+  }
+
+  .size81_5{
+    font-size: 81.5
+  }
+
+  .size81{
+    font-size: 81
+  }
+
+  .size80_5{
+    font-size: 80.5
+  }
+
+  .size80{
+    font-size: 80
+  }
+
+  .size79_5{
+    font-size: 79.5
+  }
+
+  .size79{
+    font-size: 79
+  }
+
+  .size78_5{
+    font-size: 78.5
+  }
+
+  .size78{
+    font-size: 78
+  }
+
+  .size77_5{
+    font-size: 77.5
+  }
+
+  .size77{
+    font-size: 77
+  }
+
+  .size76_5{
+    font-size: 76.5
+  }
+
+  .size76{
+    font-size: 76
+  }
+
+  .size75_5{
+    font-size: 75.5
+  }
+
+  .size75{
+    font-size: 75
+  }
+
+  .size74_5{
+    font-size: 74.5
+  }
+
+  .size74{
+    font-size: 74
+  }
+
+  .size73_5{
+    font-size: 73.5
+  }
+
+  .size73{
+    font-size: 73
+  }
+
+  .size72_5{
+    font-size: 72.5
+  }
+
+  .size72{
+    font-size: 72
+  }
+
+  .size71_5{
+    font-size: 71.5
+  }
+
+  .size71{
+    font-size: 71
+  }
+
+  .size70_5{
+    font-size: 70.5
+  }
+
+  .size70{
+    font-size: 70
+  }
+
+  .size69_5{
+    font-size: 69.5
+  }
+
+  .size69{
+    font-size: 69
+  }
+
+  .size68_5{
+    font-size: 68.5
+  }
+
+  .size68{
+    font-size: 68
+  }
+
+  .size67_5{
+    font-size: 67.5
+  }
+
+  .size67{
+    font-size: 67
+  }
+
+  .size66_5{
+    font-size: 66.5
+  }
+
+  .size66{
+    font-size: 66
+  }
+
+  .size65_5{
+    font-size: 65.5
+  }
+
+  .size65{
+    font-size: 65
+  }
+
+  .size64_5{
+    font-size: 64.5
+  }
+
+  .size64{
+    font-size: 64
+  }
+
+  .size63_5{
+    font-size: 63.5
+  }
+
+  .size63{
+    font-size: 63
+  }
+
+  .size62_5{
+    font-size: 62.5
+  }
+
+  .size62{
+    font-size: 62
+  }
+
+  .size61_5{
+    font-size: 61.5
+  }
+
+  .size61{
+    font-size: 61
+  }
+
+  .size60_5{
+    font-size: 60.5
+  }
+
+  .size60{
+    font-size: 60
+  }
+
+  .size59_5{
+    font-size: 59.5
+  }
+
+  .size59{
+    font-size: 59
+  }
+
+  .size58_5{
+    font-size: 58.5
+  }
+
+  .size58{
+    font-size: 58
+  }
+
+  .size57_5{
+    font-size: 57.5
+  }
+
+  .size57{
+    font-size: 57
+  }
+
+  .size56_5{
+    font-size: 56.5
+  }
+
+  .size56{
+    font-size: 56
+  }
+
+  .size55_5{
+    font-size: 55.5
+  }
+
+  .size55{
+    font-size: 55
+  }
+
+  .size54_5{
+    font-size: 54.5
+  }
+
+  .size54{
+    font-size: 54
+  }
+
+  .size53_5{
+    font-size: 53.5
+  }
+
+  .size53{
+    font-size: 53
+  }
+
+  .size52_5{
+    font-size: 52.5
+  }
+
+  .size52{
+    font-size: 52
+  }
+
+  .size51_5{
+    font-size: 51.5
+  }
+
+  .size51{
+    font-size: 51
+  }
+
+  .size50_5{
+    font-size: 50.5
+  }
+
+  .size50{
+    font-size: 50
+  }
+
+  .size49_5{
+    font-size: 49.5
+  }
+
+  .size49{
+    font-size: 49
+  }
+
+  .size48_5{
+    font-size: 48.5
+  }
+
+  .size48{
+    font-size: 48
+  }
+
+  .size47_5{
+    font-size: 47.5
+  }
+
+  .size47{
+    font-size: 47
+  }
+
+  .size46_5{
+    font-size: 46.5
+  }
+
+  .size46{
+    font-size: 46
+  }
+
+  .size45_5{
+    font-size: 45.5
+  }
+
+  .size45{
+    font-size: 45
+  }
+
+  .size44_5{
+    font-size: 44.5
+  }
+
+  .size44{
+    font-size: 44
+  }
+
+  .size43_5{
+    font-size: 43.5
+  }
+
+  .size43{
+    font-size: 43
+  }
+
+  .size42_5{
+    font-size: 42.5
+  }
+
+  .size42{
+    font-size: 42
+  }
+
+  .size41_5{
+    font-size: 41.5
+  }
+
+  .size41{
+    font-size: 41
+  }
+
+  .size40_5{
+    font-size: 40.5
+  }
+
+  .size40{
+    font-size: 40
+  }
+
+  .size39_5{
+    font-size: 39.5
+  }
+
+  .size39{
+    font-size: 39
+  }
+
+  .size38_5{
+    font-size: 38.5
+  }
+
+  .size38{
+    font-size: 38
+  }
+
+  .size37_5{
+    font-size: 37.5
+  }
+
+  .size37{
+    font-size: 37
+  }
+
+  .size36_5{
+    font-size: 36.5
+  }
+
+  .size36{
+    font-size: 36
+  }
+
+  .size35_5{
+    font-size: 35.5
+  }
+
+  .size35{
+    font-size: 35
+  }
+
+  .size34_5{
+    font-size: 34.5
+  }
+
+  .size34{
+    font-size: 34
+  }
+
+  .size33_5{
+    font-size: 33.5
+  }
+
+  .size33{
+    font-size: 33
+  }
+
+  .size32_5{
+    font-size: 32.5
+  }
+
+  .size32{
+    font-size: 32
+  }
+
+  .size31_5{
+    font-size: 31.5
+  }
+
+  .size31{
+    font-size: 31
+  }
+
+  .size30_5{
+    font-size: 30.5
+  }
+
+  .size30{
+    font-size: 30
+  }
+
+  .size29_5{
+    font-size: 29.5
+  }
+
+  .size29{
+    font-size: 29
+  }
+
+  .size28_5{
+    font-size: 28.5
+  }
+
+  .size28{
+    font-size: 28
+  }
+
+  .size27_5{
+    font-size: 27.5
+  }
+
+  .size27{
+    font-size: 27
+  }
+
+  .size26_5{
+    font-size: 26.5
+  }
+
+  .size26{
+    font-size: 26
+  }
+
+  .size25_5{
+    font-size: 25.5
+  }
+
+  .size25{
+    font-size: 25
+  }
+
+  .size24_5{
+    font-size: 24.5
+  }
+
+  .size24{
+    font-size: 24
+  }
+
+  .size23_5{
+    font-size: 23.5
+  }
+
+  .size23{
+    font-size: 23
+  }
+
+  .size22_5{
+    font-size: 22.5
+  }
+
+  .size22{
+    font-size: 22
+  }
+
+  .size21_5{
+    font-size: 21.5
+  }
+
+  .size21{
+    font-size: 21
+  }
+
+  .size20_5{
+    font-size: 20.5
+  }
+
+  .size20{
+    font-size: 20
+  }
+
+  .size19_5{
+    font-size: 19.5
+  }
+
+  .size19{
+    font-size: 19
+  }
+
+  .size18_5{
+    font-size: 18.5
+  }
+
+  .size18{
+    font-size: 18
+  }
+
+  .size17_5{
+    font-size: 17.5
+  }
+
+  .size17{
+    font-size: 17
+  }
+
+  .size16_5{
+    font-size: 16.5
+  }
+
+  .size16{
+    font-size: 16
+  }
+
+  .size15_5{
+    font-size: 15.5
+  }
+
+  .size15{
+    font-size: 15
+  }
+
+  .size14_5{
+    font-size: 14.5
+  }
+
+  .size14{
+    font-size: 14
+  }
+
+  .size13_5{
+    font-size: 13.5
+  }
+
+  .size13{
+    font-size: 13
+  }
+
+  .size12_5{
+    font-size: 12.5
+  }
+
+  .size12{
+    font-size: 12
+  }
+
+  .size11_5{
+    font-size: 11.5
+  }
+
+  .size11{
+    font-size: 11
+  }
+
+  .size10_5{
+    font-size: 10.5
+  }
+
+  .size10{
+    font-size: 10
+  }
+
+  .size9_5{
+    font-size: 9.5
+  }
+
+  .size9{
+    font-size: 9
+  }
+
+  .size8_5{
+    font-size: 8.5
+  }
+
+  .size8{
+    font-size: 8
+  }
+
+  .size7_5{
+    font-size: 7.5
+  }
+
+  .size7{
+    font-size: 7
+  }
+
+  .size6_5{
+    font-size: 6.5
+  }
+
+  .size6{
+    font-size: 6
+  }
+
+  .size5_5{
+    font-size: 5.5
+  }
+
+  .size5{
+    font-size: 5
+  }
+
+  .size4_5{
+    font-size: 4.5
+  }
+
+  .size4{
+    font-size: 4
+  }
+
+  .size3_5{
+    font-size: 3.5
+  }
+
+  .size3{
+    font-size: 3
+  }
+
+  .size2_5{
+    font-size: 2.5
+  }
+
+  .size2{
+    font-size: 2
+  }
+
+  .size1_5{
+    font-size: 1.5
+  }
+
+  .size1{
+    font-size: 1
+  }
